@@ -371,12 +371,13 @@ footer#footer .ft__menu{
 }
 footer#footer .ft__menu__top{
   height: 25px;
-  margin-bottom: 10px;
+  margin: 0 0 10px 10px;
 }
 footer#footer .ft__menu__top a{
   float: left;
   margin: 5px;
   font-size: 14px;
+  letter-spacing: -1px;
 }
 footer#footer .ft__menu__top a:hover{
   color: var(--sub1);
